@@ -16,7 +16,12 @@ class ArraysClosestDistancesTest {
                         new int[] {1, 4, 10},
                         new int[] {2, 15, 20},
                         new int[] {10, 12},
-                        new int[] {10, 10, 15 })
+                        new int[] {10, 15, 12 }),
+                Arguments.of (
+                        new int[] {20, 24, 99},
+                        new int[] {2, 19, 22, 79, 122},
+                        new int[] {10, 12, 23, 24, 911, 912},
+                        new int[] {24, 22, 23})
         );
     }
 
