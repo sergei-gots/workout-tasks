@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 import static org.assertj.core.api.Assertions.*;
 
-class ArraysClosestDistancesTest {
+class ArraysClosestRouteTest {
 
     public static Stream<Arguments> prepareArrays() {
         return Stream.of(
