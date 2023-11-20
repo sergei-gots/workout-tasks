@@ -51,7 +51,7 @@ import java.util.Arrays;
  * с использованием дополнительной памяти или без нее, как вам будет быстрее или удобнее в реализации.
  * Если у вас получится - с радостью ждем вас для прохождения дополнительного тестирования.
  **/
-public class CustomSorter {
+public class RecursiveMergeSort {
 
 
     public static void main(String[] args) {
